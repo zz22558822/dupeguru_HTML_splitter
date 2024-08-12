@@ -17,14 +17,12 @@
 4. 等待運行完成後即可查看  
 
 ## 檔案結構
-'''
-File/  
-├── output/  
-│      └── File name/  
-│              └── export_part1...  
-├── dupeguru_HTML_splitter.exe  
-└── header.txt  
-'''
+File/
+├── output/
+│&nbsp;&nbsp;&nbsp;&nbsp;└── File name/
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── export_part1...
+├── dupeguru_HTML_splitter.exe
+└── header.txt
 
 output/ → 資料分割後的存放位置  
 dupeguru_HTML_splitter.exe → 主程序  
